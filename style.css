@@ -1,7 +1,10 @@
 nav {display: flex;
+    margin: 0 40px;
 align-items: center;
 justify-content: space-around;
 }
+
+.my-header{background-color: #FFF8F3; }
 *{font-family: 'Open Sans', sans-serif;}
 
 .main-color{color: #FD6E0A; }
@@ -33,9 +36,12 @@ color: white;
 padding: 8px 8px 8px 7px;
 }
 
-
-
-
+.banner{padding:30px 30px 30px 120px ;
+display: flex;
+align-items: center;
+}
+.banner img{height: 500px; width: 400px;}
+.banner-title{padding: 100px;}
 
 
 
