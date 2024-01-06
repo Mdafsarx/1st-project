@@ -128,3 +128,23 @@ margin-top: 20px;
 margin-top: 50px;
 
 }
+
+/* footer  */
+
+footer{display: flex;background: #FFF8F3;
+padding: 40px 50px 30px 60px
+}
+.content-footer{padding-left: 220px;}
+.input-button,textarea{border-radius: 5px;
+    background: var(--White-Color, #FFF);
+border: none;
+padding: 6px 30px;
+}
+
+
+
+
+
+
+
+
