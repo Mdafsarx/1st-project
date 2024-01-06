@@ -140,8 +140,8 @@ padding: 40px 50px 30px 60px
 border: none;
 padding: 6px 30px;
 }
-
-
+form ,input,textarea,button,#h2{margin-bottom: 20px;}
+.content-footer a{margin-left: 20px;}
 
 
 
