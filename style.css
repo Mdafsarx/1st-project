@@ -14,7 +14,7 @@ background-position: bottom right;
 
 }
 *{font-family: 'Open Sans', sans-serif;
-margin: 0;
+margin: 0; 
 }
 
 .main-color{color: #FD6E0A; }
@@ -66,6 +66,8 @@ justify-content: space-between;
 
 /* main section 
 /* about section */
+
+
 .about{border-radius: 10px;
     background: #FFF8F3;
 padding: 130px;
@@ -91,6 +93,7 @@ line-height: 40px;
 #p{max-width: 60%;
 margin: 30px auto;
 }
+/* what i do style */
 .what{text-align: center;
 font-size: 35px;
 /* font-weight: 500; */
@@ -100,7 +103,17 @@ line-height: 40px;
 .whatp{text-align: center;
 line-height: 30px;
 }
-
+#skills-container{display: flex;
+gap: 20px;
+}
+.skill{
+/* background-color: rgb(240, 248, 255); */
+border-radius: 5px;
+padding: 30px;
+background: #FFF;
+box-shadow: 0px 6px 500px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-des{color: #757575;}
 
 
 
