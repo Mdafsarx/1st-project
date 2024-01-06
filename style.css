@@ -114,11 +114,17 @@ background: #FFF;
 box-shadow: 0px 6px 500px 0px rgba(0, 0, 0, 0.06);
 }
 .skill-des{color: #757575;}
+.resume-cont{display: flex;
+gap: 50px;
+margin-top: 20px;
+}
 
+.enginering{max-width: 60%;}
+.resume-column{margin-left: 140px; }
+.resume-column2{margin-left:500px;}
+.resume-column2{margin-top: 20px;}
 
+.button-move{text-align: center;
+margin-top: 50px;
 
-
-
-
-
-
+}
