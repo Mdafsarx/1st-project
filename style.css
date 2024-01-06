@@ -66,10 +66,20 @@ justify-content: space-between;
 
 /* main section */
 /* about section */
-
-
-
-
+.about{border-radius: 10px;
+    background: #FFF8F3;
+padding: 130px;
+margin: 130px 0;
+}
+.me{color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;}
+.des{color: var(--Dark-03, #757575);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;}
 
 
 
