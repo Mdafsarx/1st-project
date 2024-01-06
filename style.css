@@ -88,4 +88,24 @@ line-height: 40px;
 }
 .about-info
 {text-align: center;}
+#p{max-width: 60%;
+margin: 30px auto;
+}
+.what{text-align: center;
+font-size: 35px;
+/* font-weight: 500; */
+line-height: 40px;
+}
+
+.whatp{text-align: center;
+line-height: 30px;
+}
+
+
+
+
+
+
+
+
 
