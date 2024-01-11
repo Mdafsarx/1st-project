@@ -51,7 +51,7 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 }
-.banner img{height: 700px; width: 500px;}
+.banner img{height: 700px; width: 599px;}
 .banner-title{ max-width: 400px;}
 #b1{font-size: 45px;
     font-weight: 600;}
@@ -121,7 +121,9 @@ margin-top: 20px;
 
 .enginering{max-width: 60%;}
 .resume-column{margin-left: 140px; }
-.resume-column2{margin-left:500px;}
+.resume-column2{margin-left:500px;
+
+}
 .resume-column2{margin-top: 20px;}
 
 .button-move{text-align: center;
@@ -142,6 +144,72 @@ padding: 6px 30px;
 }
 form ,input,textarea,button,#h2{margin-bottom: 20px;}
 .content-footer a{margin-left: 20px;}
+
+/* responesive web deg */
+.hide{
+    display: none;
+}
+
+/* for mobile device */
+
+
+@media screen and (max-width:597px){
+#skills-container,.resume-cont,.resume-column2,footer{
+flex-direction: column;
+
+}
+footer,.content-footer{
+    padding:5px
+}
+.resume-column2{margin-left:137px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
