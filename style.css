@@ -178,20 +178,53 @@ footer,.content-footer{
 .about-info-container {
     flex-wrap: wrap;
 }
+.my-header {
+    background-image:none;
+   
+}
+.banner {
+    padding: 0px;
 
+    flex-direction: column;
+}
 
-
-
-
-
-
-
+#b1 {
+    font-size: 18px;
+}
+#b2 {
+    font-size: 16px;
+}
+.main-button {
+   
+    font-size: 12px;
+  
+}
+.banner img {
+    height: 50%;
+    width: 50%;
+    margin-left: 190px;
+}
+nav > ul {
+    flex-direction: column;
+}
 
 
 }
 
+
+/* ///////// */
 /* medium device */
+
+
+
 @media screen and (min-width:597px) and (max-width:992px){
+    #skills-container{
+flex-direction: column;
+
+
+    }
+
+
     .content-footer {
          padding-left:0px; 
 
