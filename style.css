@@ -163,6 +163,26 @@ footer,.content-footer{
 }
 .resume-column2{margin-left:137px;}
 
+.about {
+
+
+     padding: 0px; 
+    max-width: 90%;
+
+}
+.des {
+   
+    font-size: 15px;
+  
+}
+.about-info-container {
+    flex-wrap: wrap;
+}
+
+
+
+
+
 
 
 
@@ -170,6 +190,7 @@ footer,.content-footer{
 
 }
 
+/* medium device */
 @media screen and (min-width:597px) and (max-width:992px){
     .content-footer {
          padding-left:0px; 
