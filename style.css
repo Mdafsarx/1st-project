@@ -162,9 +162,39 @@ footer,.content-footer{
     padding:5px
 }
 .resume-column2{margin-left:137px;}
+
+
+
+
+
+
+}
+
+@media screen and (min-width:597px) and (max-width:992px){
+    .content-footer {
+         padding-left:0px; 
+
+    }
+    footer {
+    padding: 40px 50px 30px 10px;
+}
+
+.resume-column {
+    margin-left: 0px;
+}
+.resume-column2 {
+    margin-top: 0px;
+}
+.resume-column2 {
+    margin-left: 0px;
+}
+.enginering {
+    max-width: 60%;
 }
 
 
+
+}
 
 
 
